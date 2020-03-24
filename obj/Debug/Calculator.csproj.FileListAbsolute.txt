@@ -1,0 +1,14 @@
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Karol\Desktop\Work dir\Calculator\Calculator\obj\Debug\Calculator.pdb
